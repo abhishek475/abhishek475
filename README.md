@@ -16,13 +16,13 @@ B.Tech, Computer Science — TKM College of Engineering · 3rd Year
 |---|---|
 | Languages | Python, JavaScript, Rust, C |
 | Backend | Flask |
-| Data | MySQL |
+| Data | MySQL,PostgreSql |
 | Security | Applied cryptography, SIEM tooling |
 
 ## Elsewhere
 
-- Email: [your email]
-- LinkedIn: [your LinkedIn URL]
+- Email: [abhishek1098j@gmail.com]
+- LinkedIn: []
 
 ---
 
