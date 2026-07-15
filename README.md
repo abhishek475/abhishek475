@@ -1,6 +1,8 @@
-# Abhishek Nair J
+# Abhishek
 
 `Backend Development · Security Tooling · Python / Flask / JavaScript`
+
+B.Tech, Computer Science — TKM College of Engineering · 3rd Year
 
 ## Focus
 
@@ -14,12 +16,12 @@
 |---|---|
 | Languages | Python, JavaScript, Rust, C |
 | Backend | Flask |
-| Data | MySQL, PostgreSQL |
+| Data | MySQL |
 | Security | Applied cryptography, SIEM tooling |
 
 ## Elsewhere
 
-- Email: [abhishek1098j@gmail.com]
+- Email: [your email]
 - LinkedIn: [your LinkedIn URL]
 
 ---
