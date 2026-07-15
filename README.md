@@ -1,4 +1,4 @@
-# Abhishek
+# Abhishek Nair J
 
 `Backend Development · Security Tooling · Python / Flask / JavaScript`
 
@@ -12,9 +12,9 @@
 
 | Layer | Tools |
 |---|---|
-| Languages | Python, JavaScript |
+| Languages | Python, JavaScript, Rust, C |
 | Backend | Flask |
-| Data | PostgreSQL, SQLite |
+| Data | MySQL, PostgreSQL |
 | Security | Applied cryptography, SIEM tooling |
 
 ## Elsewhere
